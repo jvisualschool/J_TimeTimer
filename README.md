@@ -16,9 +16,8 @@
 ---
 
 ## 💻 온라인 체험
-```
-🌐 https://ai.jvisualschool.com/J_TimeTimer/
-```
+
+https://ai.jvisualschool.com/J_TimeTimer/
 
 
 ## ✨ 주요 기능
